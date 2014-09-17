@@ -15,7 +15,7 @@ properties of the C. elegans neuronal network" PLoS Comput. Biol. Feb 3,
 I am not incredibly thrilled with the quality of the role and neurotransmitter
 metadata for this model. With as much research as has been put into this
 system over the years, it's frustrating that bits of the worm atlas aren't even
-consistent. Nonetheless, this is a reasonable first attempt, especilaly for 
+consistent. Nonetheless, this is a reasonable first attempt, especially for 
 multi-cell classes. 
 
 ### Cells
